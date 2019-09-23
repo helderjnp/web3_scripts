@@ -1,0 +1,14 @@
+{
+  "name": "web3_scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "balance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/helderjnpinto",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.2.1"
+  }
+}
